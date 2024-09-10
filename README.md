@@ -2,7 +2,7 @@
 
 # Runs on Flask
 
-## Assuming that your system already had python3 & pip3 installed
+## Assuming that your system already has python3 & pip3 installed
 
 > Install the following libraries before running the code
 
